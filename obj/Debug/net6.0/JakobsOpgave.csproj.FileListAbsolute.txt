@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\bin\Debug\net6.0\JakobsOpgave.exe
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\bin\Debug\net6.0\JakobsOpgave.deps.json
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\bin\Debug\net6.0\JakobsOpgave.runtimeconfig.json
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\bin\Debug\net6.0\JakobsOpgave.dll
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\bin\Debug\net6.0\JakobsOpgave.pdb
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\JakobsOpgave.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\JakobsOpgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\JakobsOpgave.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\JakobsOpgave.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\JakobsOpgave.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\JakobsOpgave.dll
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\refint\JakobsOpgave.dll
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\JakobsOpgave.pdb
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\JakobsOpgave.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\JakobsOpgave\JakobsOpgave\obj\Debug\net6.0\ref\JakobsOpgave.dll
